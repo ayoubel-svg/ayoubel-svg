@@ -26,6 +26,6 @@
 
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoubel-svg&show_icons=true&locale=en&layout=compact" alt="ayoubel-svg" /></p>
 
-<p>&nbsp;<img align="center" style="margin-top:1em;" src="https://github-readme-stats.vercel.app/api?username=ayoubel-svg&show_icons=true&locale=en" alt="ayoubel-svg" /></p>
+<p style="margin-top:1em;">&nbsp;<img align="center"src="https://github-readme-stats.vercel.app/api?username=ayoubel-svg&show_icons=true&locale=en" alt="ayoubel-svg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubel-svg&" alt="ayoubel-svg" /></p>
