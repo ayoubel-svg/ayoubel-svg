@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayoub El Gueddari</h1>
 <h3 align="center">A passionate full stack developer from morocco</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubel-svg&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubel-svg" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoubel-svg" alt="ayoubel-svg" /></a> </p>
-
+<div style="width:100%;height:0;padding-bottom:61%;position:relative;"><iframe src="https://giphy.com/embed/1afuwyOsr5E8X9CuRV" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/BoschRexrothGlobal-boschrexroth-ctrlx-ctrlxautomation-1afuwyOsr5E8X9CuRV">via GIPHY</a></p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=ayoubel-svg&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubel-svg" />
+ </p>
 - 🔭 I’m currently working on **new version of my portofolio**
 
 - 🌱 I’m currently learning **Redux , Laravel**
