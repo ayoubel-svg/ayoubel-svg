@@ -5,9 +5,6 @@
 <img src="https://komarev.com/ghpvc/?username=ayoubel-svg&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubel-svg" />
  </p>
 - 🔭 I’m currently working on **new version of my portofolio**
-
-- 🌱 I’m currently learning **Redux , Laravel**
-
 - 💬 Ask me about **react , javascript**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ayoub-el-gueddari-92aa2b219/**
