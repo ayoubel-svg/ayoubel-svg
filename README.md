@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ayoub El Gueddari and I'm a Web Application Creator, from Morocco</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://giphy.com/stickers/nft-computer-pc-E6EnvXLzCwnhV58V9l)"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -43,6 +43,7 @@
 ###
 
 <br clear="both">
-![snake gif](https://github.com/ayoubel-svg/ayoubel-svg/blob/output/github-contribution-grid-snake.gif)
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
