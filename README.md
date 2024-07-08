@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ayoubel-svg/ayoubel-svg/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ayoubel-svg/ayoubel-svg/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
