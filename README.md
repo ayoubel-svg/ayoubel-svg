@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ayoub El Gueddari and I'm a Web App Builder, from Morocco/T</h2>
+<h2 align="left">Hi 👋! My name is Ayoub El Gueddari and I'm a Web App Builder, from Morocco/Tangier</h2>
 
 ###
 
